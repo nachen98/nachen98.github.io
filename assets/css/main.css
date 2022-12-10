@@ -73,7 +73,9 @@ input, select, textarea {
 }
 
 /* Basic */
-
+	.skills{
+		background-color: white;	
+	}
 	html {
 		box-sizing: border-box;
 	}
